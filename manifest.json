@@ -1,0 +1,9 @@
+{
+    "name": "Endro's Hat Mod",
+    "version_number": "1.0.0",
+    "website_url": "",
+    "description": "A mod that adds a handful of funny hats. Mainly made for a friend group",
+    "dependencies": [
+        "YMC_MHZ-MoreHead-1.3.0"
+    ]
+}
